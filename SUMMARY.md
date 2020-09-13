@@ -1,5 +1,6 @@
-# Summary
+# Table of contents
 
+* [Tanıtım](README.md)
 * [Dedication](dedication.md)
 * [Preface](preface.md)
 * [About Python](about_python.md)
@@ -24,3 +25,4 @@
 * [Appendix: Translations](translations.md)
 * [Appendix: Translation How-to](translation_howto.md)
 * [Feedback](feedback.md)
+
