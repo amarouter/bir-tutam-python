@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Tanıtım](README.md)
-* [Dedication](dedication.md)
+* [İthaf](dedication.md)
 * [Preface](preface.md)
 * [About Python](about_python.md)
 * [Installation](installation.md)
