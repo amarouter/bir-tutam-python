@@ -1,34 +1,38 @@
-# About Python
+# Python Hakkında
 
-Python is one of those rare languages which can claim to be both _simple_ and _powerful_. You will find yourself pleasantly surprised to see how easy it is to concentrate on the solution to the problem rather than the syntax and structure of the language you are programming in.
+Python hem basit hem de güçlü olan nadir programlama dillerinden bir tanesidir. Problem çözerken programlama dilinin sözdizimi ve yapısına odaklanmaktansa doğrudan çözüme odaklandığımızı gördükçe şaşıracağız.
 
-The official introduction to Python is:
+Python resmi tanıtımını aşağıda görebiliriz:
 
-> Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python's elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
+> Python öğrenmesi kolay ve güçlü bir programlama dilidir. Etkili yüksek seviyeli veri yapıları ve nesne yönelimli programlamaya basit ama etkili bir yaklaşımı olan bir programlama dilidir. Python'ın yorumlanan doğasıyla beraber zarif sözdizimi ve dinamik yazımı, neredeyse tüm platformlarda birçok alanda betik yazımında ve hızlı uygulama geliştirmede onu ideal bir programlama dili haline getiriyor.
 
-I will discuss most of these features in more detail in the next section.
+Bu özellikleri çoğuna, sonraki bölümde detaylıca değineceğiz.
 
-## Story behind the name
+## İsmin arkasındaki hikaye
 
-Guido van Rossum, the creator of the Python language, named the language after the BBC show "Monty Python's Flying Circus". He doesn't particularly like snakes that kill animals for food by winding their long bodies around them and crushing them.
+Guido van Rossum, Python dilinin yaratıcısı,  BBC dizisi "Monty Python's Flying Circus"dan esinlenerek dile ismini verdi. Onun yılanlara özel bir ilgisi yok.
 
-## Features of Python
+## Python'ın Özellikleri
 
-### Simple
+### Basit
 
-Python is a simple and minimalistic language. Reading a good Python program feels almost like reading English, although very strict English! This pseudo-code nature of Python is one of its greatest strengths. It allows you to concentrate on the solution to the problem rather than the language itself.
+Python basit ve minimalistik bir dildir. İyi bir Python programını okumak, İngilizce okumak gibi hissettirir, ancak oldukça sıkı bir  İngilizce! Python'ın bu sözde kod tarzı doğası, onun en güçlü özelliklerinden bir tanesidir. Dilin kendisindense doğrudan problemin çözümüne odaklanmamıza imkan tanır.
 
-### Easy to Learn
+### Öğrenmesi Kolay
 
-As you will see, Python is extremely easy to get started with. Python has an extraordinarily simple syntax, as already mentioned.
+Göreceğimiz üzere, Python, başlaması müthiş seviyede kolay bir dildir. Python'ın olağanüstü kolay bir sözdizimi vardır.
 
-### Free and Open Source
+### Özgür ve Açık Kaynaklı
 
-Python is an example of a _FLOSS_ \(Free/Libré and Open Source Software\). In simple terms, you can freely distribute copies of this software, read its source code, make changes to it, and use pieces of it in new free programs. FLOSS is based on the concept of a community which shares knowledge. This is one of the reasons why Python is so good - it has been created and is constantly improved by a community who just want to see a better Python.
+Python bir _FLOSS_ \(Free/Libré and Open Source Software\) \(Özgür ve Açık Kaynaklı Yazılım\) örneğidir. Kısacası, kopyalarını özgürce dağıtabiliriz,  kaynak kodlarını okuyabiliriz, bunlar üzerinde değişiklikler yapabiliriz ve yeni özgür programlarda kullanabiliriz. FLOSS, bilgiyi paylaşan topluluk konseptine dayanır. Python'ın bu kadar iyi olmasındaki sebeplerden biri budur - daha iyi bir Python görmek isteyen bir topluluk tarafından yaratılmıştır ve sürekli olarak geliştirilmektedir.
 
-### High-level Language
+### Yüksek Seviyeli Dil
 
-When you write programs in Python, you never need to bother about the low-level details such as managing the memory used by your program, etc.
+Programlarımızı Python ile yazdığımızda, programımızın ne kadar hafıza yediği konular gibi düşük seviyeli konulardan dolayı rahatsızlık duymayız.
+
+
+
+
 
 ### Portable
 
