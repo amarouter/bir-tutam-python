@@ -2,8 +2,8 @@
 
 * [Tanıtım](README.md)
 * [İthaf](dedication.md)
-* [Preface](preface.md)
-* [About Python](about_python.md)
+* [Önyüz](preface.md)
+* [Python Hakkında](about_python.md)
 * [Installation](installation.md)
 * [First Steps](first_steps.md)
 * [Basics](basics.md)
